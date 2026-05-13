@@ -1,0 +1,2 @@
+timestamp,zone_id,soil_moisture,ph,calcium,humidity,leaf_wetness,energy_kwh,water_liters
+2026-05-14 10:00,Z01,28.5,6.5,12.5,78,2,0.45,150
